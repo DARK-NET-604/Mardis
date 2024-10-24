@@ -25,7 +25,6 @@ dpkg -i mardis_1.0_all.deb
 # now you can run with the command:⬇️
 ````
 python2 setup.py
-
 ````
 # Usage:⬇️
 mardis [filename|output]
