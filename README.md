@@ -1,4 +1,4 @@
-# mardis
+# Mardis
 Great marshal python2 decompiler++
 # what's new?
 The latest version supports decompilation in memory, no longer involving system commands. and added `multiexec` decompilation, because previously the tool would stop when it got more than 1 `exec` words.
@@ -22,10 +22,7 @@ git clone https://github.com/DARK-NET-604/Mardis
 cd Mardis
 dpkg -i mardis_1.0_all.deb
 ```
-# now you can run with the command:⬇️
-````
-python2 setup.py
-````
+
 # Usage:⬇️
 mardis [filename|output]
 
